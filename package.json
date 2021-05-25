@@ -1,0 +1,14 @@
+{
+  "name": "quiz-three",
+  "version": "1.0.0",
+  "description": "Quiz three",
+  "main": "index.js",
+  "scripts": {
+    "example": "node index.js BEQSSF"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^9.1.1"
+  }
+}
